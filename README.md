@@ -5,4 +5,4 @@ This rainmeter widget includes your current hashrate, a live graph displaying yo
 
 I thought this template may be of use to anyone wishing to fork it for whatever coin they are mining on whatever pool.
 
-![alt](https://i.imgur.com/UghnBQk.png)
+![alt](https://i.imgur.com/WzWEgES.png)
